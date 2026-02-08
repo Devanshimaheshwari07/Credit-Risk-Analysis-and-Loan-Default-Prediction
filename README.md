@@ -1,0 +1,2 @@
+# Credit-Risk-Analysis-and-Loan-Default-Prediction
+This project aims to conduct a comprehensive Exploratory Data Analysis (EDA) and develop predictive models on a credit risk dataset to identify significant patterns, trends, and key factors influencing creditworthiness. Through detailed data preprocessing, visualization, and model implementation using algorithms such as Logistic Regression, Random Forest, and XGBoost, the study seeks to enhance the accuracy and interpretability of credit risk assessment and support data-driven decision-making in financial systems.
